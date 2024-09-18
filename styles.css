@@ -1,0 +1,30 @@
+body {
+    color: rgb(2, 2, 21);
+    background: rgb(0, 2, 10);
+    margin: 0px;
+    font-family: "Lato", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(86, 124, 236);
+    padding: 28px;
+    font-size: 32px;
+    color: rgb(239, 241, 244);
+}
+
+section {
+	background: rgb(100, 88, 227);
+	padding-bottom: 80px;
+	padding-top: 80px;
+	display: flex;
+	justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+h1 {
+    font-size:40px
+}
+
+
